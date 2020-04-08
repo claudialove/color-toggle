@@ -1,0 +1,16 @@
+.bisque {
+    background: bisque;
+}
+button {
+    background-color: pink;
+    height: 300px;
+    width: 275px;
+    margin-left: 38%;
+    float: left;
+    border: 10px solid black;
+    font-size:50px;
+}
+
+h1 {
+    text-align: center;
+}
